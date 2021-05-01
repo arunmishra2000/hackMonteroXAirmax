@@ -1,0 +1,21 @@
+{
+  "name": "thesolarmapproject",
+  "version": "1.0.0",
+  "description": "GIS for a solar future, data processing service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tin Stribor Sohn",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "oauth-1.0a": "^2.2.6",
+    "request": "^2.88.2"
+  }
+}
